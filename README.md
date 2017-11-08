@@ -54,4 +54,7 @@
 
 [第24周](https://github.com/yanqizhao/dev-note/blob/develop/2017-06/%E7%AC%AC24%E5%91%A8.md)
 
+## 11月
+
+[11.8 一天一坑之——Category](https://github.com/yanqizhao/dev-note/blob/develop/2017-11/11.8%20%E4%B8%80%E5%A4%A9%E4%B8%80%E5%9D%91%E4%B9%8B%E2%80%94%E2%80%94Category.md)
 
