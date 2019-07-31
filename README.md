@@ -6,6 +6,8 @@
 
 [英文简历](https://github.com/yanqizhao/dev-note/blob/develop/2019-07/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86.md)
 
+[Google面试](https://github.com/yanqizhao/dev-note/blob/develop/2019-07/Google%E9%9D%A2%E8%AF%95.md)
+
 ## 2018年
 
 ### 1月
