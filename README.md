@@ -2,6 +2,10 @@
 
 ## 2019年
 
+### 8月
+
+[8.10 8.11](https://github.com/yanqizhao/dev-note/blob/develop/2019-08/8.10%208.11.md)
+
 ### 7月
 
 [英文简历](https://github.com/yanqizhao/dev-note/blob/develop/2019-07/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86.md)
