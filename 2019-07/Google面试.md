@@ -64,3 +64,13 @@
 
 对这次面试比较失败的感受是，主要原因是自己没有把hr这一资源的定位搞清楚，盲目的将她作为我的指引者，把她讲的一切作为金科玉律一般，但回过头来仔细想想就明白了，她只是我面试中的协助者，主导权还是在我自己手里，整个准备的过程应该是我自己安排，中途遇到困难再向她求助，并且对她所讲的内容持一个中立的态度，只参考不盲目听信，而不是像现在这样，因为她用词肯定，就完全被牵着鼻子走了，她说安排中国人我就不准备英文了，她说考算法我就不准备其他的了，责任的话我占80%，她占20%的样子吧。
 
+### Phone Interview 2
+
+面试该要告一段落了，这次的题是LeetCode 772，一道Hard的题，是224和227的变种。看到题的时候，想起了上学时学编译原理的场景，学而不精说的就是我吧，什么都历历在目，但什么都讲不出所以然来。
+
+[Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+
+[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+
+[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)
+
